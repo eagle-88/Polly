@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PollyApiRetry/1.0.0": {
+        "dependencies": {
+          "Polly": "6.1.0",
+          "RestSharp": "106.1.0"
+        },
+        "runtime": {
+          "PollyApiRetry.dll": {}
+        }
+      },
+      "Polly/6.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/Polly.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.1.0.0"
+          }
+        }
+      },
+      "RestSharp/106.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {
+            "assemblyVersion": "106.1.0.0",
+            "fileVersion": "106.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PollyApiRetry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Polly/6.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qEbkPKwPjV+/Yho5VWRDBnvqeEbfNpLpF7UxNlUploVCorbHTDazCl/aOsJqspH4q6Bskm8jActOavV5//OQRQ==",
+      "path": "polly/6.1.0",
+      "hashPath": "polly.6.1.0.nupkg.sha512"
+    },
+    "RestSharp/106.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-USW0EIglmRPpBjLSO8WhdpxAkgJOiJ+7ubBqe4jSwYyzyq7ftIeiJg8H+fxMSO3msYW4jbXhhupehF8pPngWWA==",
+      "path": "restsharp/106.1.0",
+      "hashPath": "restsharp.106.1.0.nupkg.sha512"
+    }
+  }
+}

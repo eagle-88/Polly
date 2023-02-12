@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sjzr4NuJqzjIR2agkNysJPGCSbFf6y5DBQlL/j1tw0cIcS/c3ng3bCBJJI8sSQqvkRkrA7Sp6K7kaSFtE3bj7Q==",
+  "success": true,
+  "projectFilePath": "D:\\work\\learning\\dotnet\\master\\PollyApiRetry\\PollyApiRetry\\PollyApiRetry\\PollyApiRetry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\polly\\6.1.0\\polly.6.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\restsharp\\106.1.0\\restsharp.106.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
